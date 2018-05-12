@@ -1,0 +1,58 @@
+_repo: The-New-Hudson-Shakespeare--Julius-C-sar_28334
+_version: 0.1.0
+alternative_title: Julius Caesar
+contributor:
+  commentator:
+    agent_name: Hudson, Henry Norman
+    alias: Hudson, H. N. (Henry Norman)
+    birthdate: 1814
+    deathdate: 1886
+    gutenberg_agent_id: '33276'
+    url: http://www.gutenberg.org/2009/agents/33276
+  contributor:
+    agent_name: George, Andrew Jackson
+    alias: George, A. J. (Andrew Jackson)
+    birthdate: 1855
+    deathdate: 1907
+    gutenberg_agent_id: '33280'
+    url: http://www.gutenberg.org/2009/agents/33280
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editor:
+    agent_name: Black, Ebenezer Charlton
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '33277'
+    url: http://www.gutenberg.org/2009/agents/33277
+description: ''
+gutenberg_issued: '2009-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28334'
+  lccn: 08016937
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Rome -- History -- Civil War, 43-31 B.C. -- Drama'
+- !lcsh 'Caesar, Julius -- Assassination -- Drama'
+- !lcsh 'Assassins -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama'
+- !lcsh 'Conspiracies -- Drama'
+title: 'The New Hudson Shakespeare: Julius Cæsar'
+url: http://www.gutenberg.org/ebooks/28334
